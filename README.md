@@ -1,4 +1,4 @@
-## Utilizando JavaScript
+## Utilizando JavaScript e CSS
 ---
 
 Com o objetivo de praticar HMTL, JavaScript e CSS, foram feitas duas aplicações:
