@@ -1,0 +1,54 @@
+
+body {
+  text-align: center;
+  padding: 10px;
+  font-family: Georgia,serif;
+  background-color: black;
+}
+
+label,h1{
+    color:lawngreen;
+   
+}
+input{
+    padding: 8px 12px;
+    margin: 2px 8px;
+    border-radius: 4px;
+    border: 2px solid grey;
+    }
+
+table,
+th,
+td {
+  border: 1px solid rgb(85, 82, 82);
+  background-color: rgb(36, 36, 36);
+  color:white;
+}
+
+
+#subtracao-result,#soma-result,#subtracaoBA-result,#divisaoAB-result,#divisaoBA-result,#multiplicacao-result,#PotenciaAB-result,#PotenciaBA-result,#raizQA-result,#raizQB-result,#FatorialA-result,#FatorialB-result,#PorcAB-result,#PorcBA-result,#Media-result{
+    color:rgb(41, 187, 126);
+} 
+th, td{
+    padding: 5px;
+    text-align: center;
+    width: 250px;
+    }
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+}
+
+button {
+    background-color: lawngreen;
+    cursor: pointer;
+    border-radius: 4px;
+    border: 2px solid rgb(64, 96, 235);
+    padding: 8px 12px;
+    font-weight: bold;
+    font-size: 14px;
+    box-shadow: 3px 3px 0 2px green;
+    transition: box-shadow 0.3s ease, transform: 0.3s ease;
+    
+  }

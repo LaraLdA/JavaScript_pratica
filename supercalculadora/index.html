@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="stylesss.css" />
+
+    <title>Projeto base</title>
+  </head>
+  <body>
+    <header>
+      <h1>Super Calculadora</h1>
+    </header>
+
+    <main>
+        <form>
+            <label for="numero-A">Primeiro número (A):</label>
+            <input id="numero-A" type="number" value="0" />
+            <label for="numero-B">Segundo número (B) </label>
+            <input id="numero-B" type="number" value="0" />
+            <button id="calcular"> Reiniciar </button>
+        </form>
+
+   
+        <table>
+        <caption>
+            <h3>Resultados</h3>
+        </caption>
+        <tbody>
+            <tr>
+            <td id="paragraph-result">
+                Soma: <br></br><strong id="soma-result"></strong>
+            </td>
+            <td id="paragraph-result">
+                Subtração A - B : <br></br><strong id="subtracao-result"></strong>
+            </td>
+            <td id="paragraph-result">
+                Subtração B - A : <br></br><strong id="subtracaoBA-result"></strong>
+            </td>
+            </tr>
+
+            <tr>
+            <td id="paragraph-result">
+                Multiplicação :
+                <br></br><strong id="multiplicacao-result"></strong>
+            </td>
+            <td id="paragraph-result">
+                Divisão A/B : <br></br><strong id="divisaoAB-result"></strong>
+            </td>
+            <td id="paragraph-result"></p>
+                Divisão B/A: <br></br><strong id="divisaoBA-result"></strong>
+            </td>
+            </tr>
+
+            <tr>
+            <td id="paragraph-result"> Potencia A^B :<br></br><strong id="PotenciaAB-result"></strong>
+            </td>
+
+            <td id="paragraph-result"> Potencia B^A:<br></br><strong id="PotenciaBA-result"></strong>
+            </td>
+            <td id="paragraph-result"> Raiz quadrada de A : <br></br><strong id="raizQA-result"></strong>
+            </td>
+            </tr>
+
+
+
+            <tr>
+                <td id="paragraph-result">Raiz quadrada de B :<br></br><strong id="raizQB-result"></strong>
+                </td>
+    
+                <td id="paragraph-result"> Fatorial de A : <br></br><strong id="FatorialA-result"></strong>
+                </td>
+                <td id="paragraph-result"> Fatorial de B :<br></br><strong id="FatorialB-result"></strong>
+            </td>
+            </tr>
+
+            <tr>
+                <td id="paragraph-result">Porcentagem de A em relação a B (%): <br></br><strong id="PorcAB-result"></strong>
+                </td>
+    
+                <td id="paragraph-result">Porcentagem de B em relação a A (%): <br></br><strong id="PorcBA-result"></strong>
+                </td>
+                <td id="paragraph-result"> Média :<br></br><strong id="Media-result"></strong></p>
+            </td>
+            </tr>
+
+        
+        </tbody>
+
+
+        </table>
+    <script defer src="scriptC.js"></script>
+    </main>
+</body>
+</html>
