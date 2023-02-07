@@ -16,4 +16,4 @@ Com o objetivo de praticar HMTL, JavaScript e CSS, foram feitas duas aplicaçõe
 
 Essas aplicações foram feitas seguindo um minicurso da XPe.
 ##### Link para a aplicação do gerador de jogos da Mega sena:  https://geradordejogosmegalaraxpe.netlify.app/
-##### Link para a aplicação da Super Calculadora:  https://supercalculadoralaraxp.netlify.app/
+##### Link para a aplicação da Super Calculadora:  https://larasupercalculadoraxpe.netlify.app/
