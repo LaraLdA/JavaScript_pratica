@@ -14,6 +14,6 @@ Com o objetivo de praticar HMTL, JavaScript e CSS, foram feitas duas aplicaçõe
     - Porcentagem;
     - Média;
 
-Essas aplicações foram feitas seguindo um minicurso da XPe.
+Essas aplicações foram feitas com base em um minicurso da XPe.
 ##### Link para a aplicação do gerador de jogos da Mega sena:  https://geradordejogosmegalaraxpe.netlify.app/
 ##### Link para a aplicação da Super Calculadora:  https://larasupercalculadoraxpe.netlify.app/
